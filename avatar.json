@@ -3,5 +3,5 @@
     "authors": ["Cheren"],
     "version": "0.1.0_rc-14",
     "color": "#CB520D",
-    "autoScripts": ["scripts/hideavatar.lua"]
+    "autoScripts": ["scripts/hideavatar.lua", "scripts/script.lua", "scripts/nameplate.lua"]
 }
