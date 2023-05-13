@@ -1,0 +1,16 @@
+{
+    "name": "Mio",
+    "authors": ["Cheren", "Author2"],
+    "version": "0.1.0_rc-14",
+    "color": "#CB520D",
+    "autoScripts": ["script1", "script2"],
+    "customizations": {
+        "model.part": {
+            "visible": false,
+            "moveTo": "model.bone",
+            "parentType": "Head",
+            "primaryRenderType": "GLINT",
+            "secondaryRenderType": "END_PORTAL"
+        }
+    }
+}
