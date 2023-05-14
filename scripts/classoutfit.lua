@@ -18,6 +18,15 @@ page1:newAction(2):item("cod"):title("Zephyr")
         models.models.main.LeftArm.LeftAZephyr:setVisible(true)
         models.models.main.RightArm.RightAZephyr:setVisible(true)
     end)
+page1:newAction(3):title("None")
+    :onLeftClick(function ()
+        models.models.main.Body.BodySword:setVisible(false)
+        models.models.main.LeftArm.LeftASword:setVisible(false)
+        models.models.main.RightArm.RightASword:setVisible(false)
+        models.models.main.Body.BodyZephyr:setVisible(false)
+        models.models.main.LeftArm.LeftAZephyr:setVisible(false)
+        models.models.main.RightArm.RightAZephyr:setVisible(false)
+    end)    
 
 
 
