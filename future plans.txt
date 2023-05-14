@@ -1,0 +1,6 @@
+HIGH PRIORITY:
+- add ear models
+- add the other 4 starter classes
+Lower Priority:
+- add functional iris (shows up when in a UI and displays HP)
+- add off-seer flute with playable off-seer melodies
