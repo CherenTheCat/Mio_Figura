@@ -4,3 +4,5 @@ HIGH PRIORITY:
 Lower Priority:
 - add functional iris (shows up when in a UI and displays HP)
 - add off-seer flute with playable off-seer melodies
+easy stuff that isn't required:
+= add toggle for cat ears
